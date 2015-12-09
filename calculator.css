@@ -16,7 +16,7 @@
   font-family: Arial, sans-serif;
   font-size: 20pt;
   font-weight: bold;
-  line-height: 42pt;
+  line-height: 60px;
   margin: 5px;
   transition: all .3s;
   width: 75%;
@@ -48,8 +48,8 @@
   flex: 1;
   font-family: Arial, sans-serif;
   font-weight: bold;
+  line-height: 60px;
   margin: 5px;
-  padding: 20px;
   transition: all .3s;
   -webkit-touch-callout: none;
   -webkit-user-select: none;

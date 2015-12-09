@@ -1,7 +1,7 @@
 module.exports = {
   extends: 'google',
   rules: {
-    'no-eval': false
+    'no-eval': 0
   },
   env: {
     browser: true
