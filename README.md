@@ -1,3 +1,8 @@
 # Calculator
 
-Vanilla JS calculator web app to try to prove I can code something.
+Simple calculator with no external libraries.
+
+See it in action: http://thearrow.github.io/calculator/
+
+
+
