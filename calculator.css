@@ -10,8 +10,11 @@
 
 .screen {
   background-color: gray;
-  width: 75%;
+  color: white;
+  font-family: Arial, sans-serif;
+  line-height: 28pt;
   margin: 5px;
+  width: 75%;
 }
 
 .button {
