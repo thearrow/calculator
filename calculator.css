@@ -18,7 +18,24 @@
   font-weight: bold;
   line-height: 42pt;
   margin: 5px;
+  transition: all .3s;
   width: 75%;
+}
+
+@keyframes error-flash {
+  0% {
+    color: #FFF;
+  }
+  50% {
+    color: #F44336;
+  }
+  100% {
+    color: #FFF;
+  }
+}
+
+.screen.error {
+  animation: error-flash .5s;
 }
 
 .button {
